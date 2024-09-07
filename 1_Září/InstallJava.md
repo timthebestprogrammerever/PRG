@@ -16,7 +16,7 @@ Java Development Kit (JDK) je nástroj potřebný k vývoji a spouštění Java 
 ### 1.1 Stažení JDK
 
 1. Přejděte na oficiální web Oracle a stáhněte si JDK (Java SE Development Kit):
-   - [Oficiální odkaz na stažení JDK](https://www.oracle.com/java/technologies/javase-jdk-downloads.html)
+   - [Oficiální odkaz na stažení JDK](https://www.oracle.com/java/technologies/downloads/)
    
 2. Zvolte správnou verzi JDK podle vašeho operačního systému (Windows, macOS, Linux).
 
@@ -37,3 +37,24 @@ Java Development Kit (JDK) je nástroj potřebný k vývoji a spouštění Java 
 
    ```bash
    java -version
+
+## Krok 2: Instalace IntelliJ IDEA
+
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) je integrované vývojové prostředí (IDE) od JetBrains, určené pro vývoj v Javě.
+
+### 2.1 Stažení IntelliJ IDEA
+1. Přejděte na [oficiální stránku pro stažení IntelliJ IDEA](https://www.jetbrains.com/idea/download/).
+2. Vyberte verzi **Community Edition** (zdarma) nebo **Ultimate Edition** (placená, s dalšími funkcemi).
+
+### 2.2 Instalace IntelliJ IDEA
+
+#### Windows
+1. Spusťte stažený `.exe` soubor.
+2. Postupujte podle pokynů instalačního průvodce.
+3. Během instalace vyberte možnosti, jako je přidání zástupce na plochu a asociace souborů `.java` s IntelliJ IDEA.
+
+### macOS
+1. Otevřete stažený `.dmg` soubor.
+2. Přetáhněte aplikaci IntelliJ IDEA do složky **Applications**.
+3. Spusťte IntelliJ IDEA z **Applications**.
+

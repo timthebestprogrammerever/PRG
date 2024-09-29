@@ -43,7 +43,7 @@ public class Example{
             pocetBileKremove += 20;
         }
 
-        System.out.println("Počet \"kelímku bílé krémové\": " + pocetPiv);
+        System.out.println("Počet \"kelímku bílé krémové\": " + pocetBileKremove);
     }
 }
 ```
@@ -66,7 +66,7 @@ public class Example{
             jsemHladovy = false;
         }
 
-        System.out.println("Počet \"kelímku bílé krémové\": " + pocetPiv);
+        System.out.println("Počet \"kelímku bílé krémové\": " + pocetBileKremove);
         System.out.println("Počet párku v rohlíku je: " + pocetParekVRohliku);
     }
 }
@@ -128,7 +128,7 @@ public class Example{
         if (vek >= 18){
             System.out.println("Jedno pivo pro vás!");
             
-        } else if (dalsiPodminka) {
+        } else if (vek >= 15) {
             System.out.println("Jednu limonádu pro vás!");
         }
         else {

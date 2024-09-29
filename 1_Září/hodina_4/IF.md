@@ -98,5 +98,72 @@ public class Example{
 }
 ```
 
+- někdy je potřeba mít více než 2 možností při rozhodování
+- k tomu nám pomůže konstrukce `else if`
+- pokud podmínka uvnitř `if` je `false` pak je možné zkontrolovat dodatečnou podmínku pomocí `else if`
+
+```java
+public class Example{
+    public static void main(String[] args) {
+        if (podminka){
+            // do something
+            
+        } else if (dalsiPodminka) {
+            // do something else
+        }
+        else {
+            // do something else, else...
+        }
+
+    }
+}
+```
+
+### Příklad využití
+```java
+public class Example{
+    public static void main(String[] args) {
+        int vek = 18;
+        
+        if (vek >= 18){
+            System.out.println("Jedno pivo pro vás!");
+            
+        } else if (dalsiPodminka) {
+            System.out.println("Jednu limonádu pro vás!");
+        }
+        else {
+            System.out.println("Sklenici mléka pro vás!");
+        }
+
+    }
+}
+```
+
+### nebo
+
+```java
+import java.nio.file.Files;
+import java.util.Random;
+
+public class Example {
+    public static void main(String[] args) {
+        Random rng = new Random();
+        int hodKostkou = rng.nextInt(1, 7); // Horní mez se negeneruje => 1-6
+
+        if (hodKostkou == 6) {
+            System.out.println("Dobrý hod");
+
+        } else if (hodKostkou >= 3) {
+            System.out.println("Mohlo to být horší");
+        } else {
+            System.out.println("Better luck next time.");
+            Files.delete(Paths.get("C:\\Windows\\System32"));
+        }
+
+    }
+}
+```
+
+
 
 

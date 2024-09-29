@@ -11,10 +11,10 @@ public class VariablesCV {
 
 
         int vek = 0;                         // celá čísla v rozsahu cca -2 miliardy až ~2 miliardy
-        double PI = 3.14159d;                   // reálná čísla (s desetinou čárkou)
-        boolean isTrue = true;                   // pravdivostní hodnota true/false (ano/ne)
-        char bigA = 'A';                      // jeden znak, píše se do ''
-        String name = "Jmeno";                  // textový řetězec (znak/slovo/text), píše se do "";
+        double PI = 3.14159d;                // reálná čísla (s desetinou čárkou)
+        boolean isTrue = true;               // pravdivostní hodnota true/false (ano/ne)
+        char bigA = 'A';                     // jeden znak, píše se do ''
+        String name = "Jmeno";               // textový řetězec (znak/slovo/text), píše se do "";
 
         /**
          * CV 1

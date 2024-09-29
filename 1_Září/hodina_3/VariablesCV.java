@@ -57,6 +57,7 @@ public class VariablesCV {
          * Výsledek vypište na konzoli
          */
         boolean isBig = 'f' + 'a' + 'a' > 300;
+        System.out.println("Je součet číselné reprezentace znaku pomocí ASCII tabulky větší jak 300?: " + isBig);
 
         /**
          * CV 4

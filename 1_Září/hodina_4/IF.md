@@ -128,7 +128,7 @@ public class Example{
         if (vek >= 18){
             System.out.println("Jedno pivo pro vás!");
             
-        } else if (dalsiPodminka) {
+        } else if (vek >= 15) {
             System.out.println("Jednu limonádu pro vás!");
         }
         else {

@@ -58,3 +58,6 @@ Java Development Kit (JDK) je nástroj potřebný k vývoji a spouštění Java 
 2. Přetáhněte aplikaci IntelliJ IDEA do složky **Applications**.
 3. Spusťte IntelliJ IDEA z **Applications**.
 
+## Vytvoření projektu
+
+Vytvoření projektu a vše potřebné pro jeho běh můžete najít na oficiálních stránkach [Intellij IDEA](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html) . Pokud by zde bylo cokoliv nejasné, zeptejte se svého učitele a rád vám pomůže :). 

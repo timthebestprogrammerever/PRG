@@ -1,3 +1,5 @@
+package hodina_1;
+
 class HelloWorld {
 	/**
 	 * Your first Java program!

@@ -1,7 +1,8 @@
+package hodina_2;
+
 public class Variables {
     public static void main(String[] args) {
 
-        // type variableName = value;
 
         // numeric values
         {
@@ -22,6 +23,7 @@ public class Variables {
             boolean g = true;
             boolean h = false;
         }
+
 
         // text and letters
         {

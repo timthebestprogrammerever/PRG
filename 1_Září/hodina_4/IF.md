@@ -43,7 +43,7 @@ public class Example{
             pocetBileKremove += 20;
         }
 
-        System.out.println("Počet \"kelímku bílé krémové\": " + pocetPiv);
+        System.out.println("Počet \"kelímku bílé krémové\": " + pocetBileKremove);
     }
 }
 ```
@@ -66,7 +66,7 @@ public class Example{
             jsemHladovy = false;
         }
 
-        System.out.println("Počet \"kelímku bílé krémové\": " + pocetPiv);
+        System.out.println("Počet \"kelímku bílé krémové\": " + pocetBileKremove);
         System.out.println("Počet párku v rohlíku je: " + pocetParekVRohliku);
     }
 }

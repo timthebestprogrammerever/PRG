@@ -28,9 +28,9 @@
 
 #### Příklady použítí
 ```java
-int soucet = 100 + 200;         // 300
-int rozdil = soucet - 100;       // 300 - 100 = 200
-int podil = soucet / rozdil;    // 300 / 200 = 1.5! Ale ukládáme do int => 1
+int suma = 100 + 200;         // 300
+int rozdil = suma - 100;       // 300 - 100 = 200
+int podil = suma / rozdil;    // 300 / 200 = 1.5! Ale ukládáme do int => 1
 ```
 
 #### Logické výrazy

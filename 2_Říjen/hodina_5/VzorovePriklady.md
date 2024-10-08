@@ -4,7 +4,7 @@
 - A1 - 9.10.2024
 - A2 - 10.10.2024
 - Ke každému příkladu je i vzorové řešení. 
-- Existuje **více než jedno** řešení pro každou úlohu, pokud se vaše neshoduje se vzorovým, **neznámená to, že je špatně**.
+- Existuje **více než jedno** řešení pro každou úlohu, pokud se vaše řešení neshoduje se vzorovým, **neznámená to, že je špatně**.
 - Pokud si nebudete jistý svým řešením, můžete mi ho zaslat na e-mail.
 ## A – AND (Podmínky s AND)
 

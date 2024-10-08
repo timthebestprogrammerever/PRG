@@ -4,6 +4,7 @@
 - využívá se místo delších `if...else` bloku
 - na základě podmínky vybere jeden z bloku, který se provede
 
+
 ### Syntax
 
 ```java
